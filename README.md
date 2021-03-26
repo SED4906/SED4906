@@ -1,4 +1,4 @@
-### <(:P)ↄ-
+### Spooky
 - I am *the* Rotom.
 - I'm working on a Discord bot.
 - I go by he/him
