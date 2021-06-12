@@ -1,8 +1,7 @@
 ### Spooky
-- I am *the* Rotom.
-- I'm working on a Discord bot.
-- I go by he/him
-- - use they/them if you love rotoms.
+- ⚡ I am Rotom.
+- 🔭 I'm working on a Discord bot.
+- 💬 I go by they/them.
 <!--
 **SED4906/SED4906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
