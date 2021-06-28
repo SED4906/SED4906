@@ -1,6 +1,6 @@
 ### Spooky
-- ⚡ I am Rotom.
-- 🔭 I'm working on a Discord bot.
+- ⚡ I'm Rotom.
+- 🔭 I work on whatever.
 - 💬 I go by they/them.
 <!--
 **SED4906/SED4906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
