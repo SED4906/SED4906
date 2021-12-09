@@ -1,5 +1,5 @@
-### Spooky
-- ⚡ I'm Rotom.
+### SED4906
+- ⚡ I'm a Rotom.
 - 🔭 I work on whatever.
 - 💬 I go by they/them.
 <!--
