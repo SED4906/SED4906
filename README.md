@@ -1,7 +1,7 @@
 ### SED4906
 - ⚡ I'm a Rotom.
-- 🔭 I work on whatever.
-- 💬 I go by they/them.
+- 🔭 I make games, art, and do hobby OSdev.
+- 📫 I can be reached at: `sed4906birdie@gmail.com`. Thanks, and have fun.
 <!--
 **SED4906/SED4906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
